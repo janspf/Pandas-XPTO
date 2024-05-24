@@ -1,4 +1,4 @@
-**CONTEXTO**
+- **CONTEXTO**
 
 A empresa XPTO está preocupada com a retenção de talentos na
 companhia e está realizando uma análise descritiva de uma série de atributos
@@ -8,13 +8,13 @@ sim representa os funcionários que pediram demissão e saíram da empresa por s
 sentirem desgastados com a XPTO, enquanto essa mesma variável com valor = não
 representa os funcionários que continuam na empresa.
 
-**OBJETIVO:**
+- **OBJETIVO:**
 
 Explorar (por meio das técnicas aprendidas sobre a biblioteca Pandas e
 análise exploratória de dados aprendidas até o momento no bootcamp) algumas das
 possíveis relações e insights que se podem obter a partir da base de dados.
 
-**REQUISITOS OBRIGATÓRIOS:**
+- **REQUISITOS OBRIGATÓRIOS:**
 
 Medidas de estatística descritiva (tendência central,
 dispersão, separatrizes e associação) de pelo menos 8 atributos que possam
