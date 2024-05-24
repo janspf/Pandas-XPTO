@@ -24,3 +24,8 @@ Pelo menos cinco distribuições de frequência para atributos
 diferentes, sendo obrigatoriamente atributos quantitativos e qualitativos,
 lembrando que para atributos quantitativos as distribuições de frequência dever
 ser agrupadas por faixas de valores.
+
+_O conjunto de dados escolhido é da área de RH e poderá ser
+obtido no link a seguir_
+
+https://docs.google.com/spreadsheets/d/1q64TPaErzCYgXX6Exp1hopq_L2JnRT3j/edit?usp=sharing&ouid=110283574113665030533&rtpof=true&sd=true
